@@ -18,6 +18,7 @@ I am a Sr. Principal Java Developer Evangelist and Director of Developer Evangel
 [<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/intent/follow?follow%7Ctwgr%5Ejuarezjunior&screen_name=juarezjunior)
 
 ### 📝 Blog Posts
+- #### Java, Python, Golang, Javascript, Android
 - [A Java Microservice with GraalVM, Micronaut Data, JDK 21, and the Oracle Autonomous Database](https://juarezjunior.medium.com/a-java-microservice-with-graalvm-micronaut-data-jdk-21-and-the-oracle-autonomous-database-10f24759f807)
 - [Developing an Oracle JDBC app with GraalVM Native Image](https://juarezjunior.medium.com/introduction-to-oracle-jdbc-driver-configuration-for-graalvm-native-image-6130e699d03b)
 - [Getting to Know the New Spring JDBC Client with the Oracle Database](https://juarezjunior.medium.com/getting-to-know-the-new-spring-jdbc-client-with-the-oracle-database-bf2dfbca3bf2)
@@ -58,6 +59,68 @@ I am a Sr. Principal Java Developer Evangelist and Director of Developer Evangel
 - [Project Helidon-Introduction to Microservices Development with Java](https://juarezjunior.medium.com/project-helidon-introduction-to-microservices-development-with-java-90f7fa73d836)
 - [Blockchain for Python Developers - Pyjamas Conf 2020](https://www.slideshare.net/juarezjunior/blockchain-for-python-developers-pyjamas-conf-2020)      
 - [Golang and Hyperledger Fabric ChainCode Development with VS Code — Quick Step by Step Guide](https://juarezjunior.medium.com/golang-and-hyperledger-fabric-chaincode-development-with-vs-code-quick-step-by-step-guide-7a6456f80307)
+
+- #### AI, DevOps, Cloud Native, Databases
+- [Performance Analysis of Infrastructure as Code (IaC) Tools — Part 2 — Terraform](https://juarezjunior.medium.com/performance-analysis-of-infrastructure-as-code-iac-tools-part-2-terraform-be3f46a86b37)
+- [Performance Analysis of Infrastructure as Code (IaC) Tools — Part 1 — Bicep](https://juarezjunior.medium.com/performance-analysis-of-infrastructure-as-code-iac-tools-part-1-bicep-da70211e7347)
+- [Cloud Native Java with Kubernetes, Spring Boot, Docker, and Minikube](https://juarezjunior.medium.com/cloud-native-java-with-kubernetes-spring-boot-docker-and-minikube-8c997e38f2d)
+- [Oracle Database XE for Students and Developers on Windows 11](https://juarezjunior.medium.com/oracle-database-xe-for-students-and-developers-on-windows-11-9d91f6b06a89)
+- [Azure SQL Database Ledger — Overview](https://juarezjunior.medium.com/azure-sql-database-ledger-overview-4d36863fd958)
+- [Azure DevOps with DV and GitHub](https://www.slideshare.net/juarezjunior/azure-devops-with-dv-and-github)
+- [Are we about to fail the Turing Test?](https://medium.com/@curiocity30/are-we-about-to-fail-the-turing-test-cb646d5fc29c)
+- [Artificial Intelligence and Machine Learning with the Oracle Data Science Cloud](https://www.slideshare.net/juarezjunior/artificial-intelligence-and-machine-learning-with-the-oracle-data-science-cloud)
+- [Oracle NoSQL Database — How to run NoSQL Database Community Edition with a VirtualBox VM](https://juarezjunior.medium.com/oracle-nosql-database-how-to-run-nosql-database-community-edition-with-a-virtualbox-vm-1b31bc63fc7b)
+- [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 1 - How to provision an ADW database](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-1-how-to-provision-an-adw-database-2225ecc854b)
+- [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 2 - Connect to the ADW database](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-2-connect-to-the-adw-database-f2455c8e2ca4)
+- [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 3 - Getting Started with Oracle Machine Learning](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-3-getting-started-with-oracle-machine-1b72224b4112)
+- [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 4 - Create a Project with Oracle Machine Learning](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-4-create-a-project-with-oracle-machine-4cf8f45c1089)
+- [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 5 - Create Notebooks in Oracle Machine Learning](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-5-create-notebooks-in-oracle-machine-3e423a791a7b)
+- [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 6 - Import Excel Data into Oracle Autonomous Database](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-6-import-excel-data-into-oracle-b068d26de6cc)
+- [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 7 - Run Notebooks with Oracle Machine Learning](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-7-run-notebooks-with-oracle-machine-64731155a436)
+- [GDPR — the new EU General Data Protection Regulation](https://juarezjunior.medium.com/gdpr-the-new-eu-general-data-protection-regulation-d651529435ac)
+
+- #### Blockchain, Hyperledger, Quorum, CORDA, Ethereum, Solidity
+- [The Trinity in Exponential Technologies - Open Source, Blockchain and Microsoft Azure](https://www.slideshare.net/juarezjunior/the-trinity-in-exponential-technologies-open-source-blockchain-and-microsoft-azure)       
+- [Enterprise Blockchain Application Development using Azure Blockchain Service](https://www.slideshare.net/juarezjunior/enterprise-blockchain-application-development-using-azure-blockchain-service)    
+- [How to Integrate Blockchain Technology into Your Applications](https://www.slideshare.net/juarezjunior/how-to-integrate-blockchain-technology-into-your-applications)  
+- [Workshop - Blockchain on Azure for Developers](https://www.slideshare.net/juarezjunior/workshop-blockchain-on-azure-for-developers)     
+- [Corda on Azure Blockchain](https://www.slideshare.net/juarezjunior/corda-on-azure-blockchain)      
+- [Cloud Lunch and Learn - Azure Blockchain for Developers](https://www.slideshare.net/juarezjunior/cloud-lunch-and-learn-azure-blockchain-for-developers)   
+- [Cloud Lunch and Learn - Hyperledger Blockchain on Azure](https://www.slideshare.net/juarezjunior/cloud-lunch-and-learn-hyperledger-blockchain-on-azure)  
+- [LKMUG - Azure Blockchain for Developers](https://www.slideshare.net/juarezjunior/lkmug-azure-blockchain-for-developers)       
+- [Cork .NET and Azure - Azure Blockchain for Developers](https://www.slideshare.net/juarezjunior/cork-net-and-azure-azure-blockchain-for-developers)
+- [Cloud Lunch and Learn - Corda Blockchain on Azure](https://www.slideshare.net/juarezjunior/cloud-lunch-and-learn-corda-blockchain-on-azure)
+- [WhatTheHack - Blockchain and The World Food Supply](https://www.slideshare.net/juarezjunior/whatthehack-blockchain-and-the-world-food-supply)
+- [Blockchain on Azure - Lightning Talk](https://www.slideshare.net/juarezjunior/blockchain-on-azure-lightning-talk)       
+- [Corda on Azure — How to deploy and run a demo Corda network](https://juarezjunior.medium.com/corda-on-azure-how-to-deploy-and-run-a-demo-corda-network-810a5be4f0d6)
+- [Corda on Azure — Deploying a Corda Testnet node](https://juarezjunior.medium.com/corda-on-azure-deploying-a-corda-node-corda-testnet-761f43eca005)
+- [Quorum on Azure Blockchain Service — Part 1 — Create a Blockchain consortium member](https://juarezjunior.medium.com/quorum-on-azure-blockchain-service-part-1-create-a-blockchain-consortium-member-279324efedf)
+- [Quorum on Azure Blockchain Service — Part 2 — Deploy a smart contract with VS Code](https://juarezjunior.medium.com/quorum-on-azure-blockchain-service-part-2-deploy-a-smart-contract-with-vs-code-89dedc63afc)
+- [Quorum on Azure Blockchain Service — Part 3— Interact with your smart contract](https://juarezjunior.medium.com/quorum-on-azure-blockchain-service-part-3-interact-with-your-smart-contract-f9527d08d3d8)
+- [How-To - Deploy your first Hyperledger Fabric components with Azure Kubernetes Service (AKS)](https://juarezjunior.medium.com/how-to-deploy-your-first-hyperledger-fabric-components-with-azure-kubernetes-service-aks-760563d9d543)
+- [Blockchain — Easier than you think!](https://medium.com/@curiocity30/blockchain-easier-than-you-think-e2a36a59b69d)
+- [Blockchain workshop design thinking and technical workshop](https://www.slideshare.net/juarezjunior/blockchain-workshop-design-thinking-and-technical-workshop)
+- [Oracle Blockchain Experience Day](https://www.slideshare.net/juarezjunior/oracle-blockchain-experience-day)
+- [Oracle Blockchain Platform](https://www.slideshare.net/juarezjunior/oracle-blockchain-platform)
+- [How to Build a Decentralized Blockchain App with the Oracle Blockchain Platform](https://www.slideshare.net/juarezjunior/how-to-build-a-decentralized-blockchainapp-with-the-oracle-blockchain-platform)
+- [Blockchain in government and the public sector](https://www.slideshare.net/juarezjunior/blockchain-in-government-and-the-public-sector)
+- [blockchain workshop - hyperledger and oabcs - technical](https://www.slideshare.net/juarezjunior/2-blockchain-workshop-hyperledger-and-oabcs-technical)
+- [blockchain workshop - blockchain and oabcs - solutions](https://www.slideshare.net/juarezjunior/blockchain-workshop-blockchain-and-oabcs-solutions)
+- [Blockchain, Hyperledger and the Oracle Blockchain Platform](https://www.slideshare.net/juarezjunior/blockchain-hyperledger-and-the-oracle-blockchain-platform)
+- [Oracle Blockchain Cloud Service — Introduction](https://juarezjunior.medium.com/oracle-blockchain-cloud-service-introduction-463e4777ad3c)
+- [Oracle Blockchain Cloud Service — How to Provision the Network Founder Instance](https://juarezjunior.medium.com/oracle-blockchain-cloud-service-how-to-provision-the-network-founder-instance-32ff7ae8153c)
+- [Oracle Blockchain Cloud Service — How to Provision a Participant Organization Instance](https://juarezjunior.medium.com/oracle-blockchain-cloud-service-how-to-provision-a-participant-organization-instance-95bf125a6807)
+- [Oracle Blockchain Cloud Service — Fabric Network Configurations](https://juarezjunior.medium.com/oracle-blockchain-cloud-service-fabric-network-configurations-8297227348b8)
+- [Oracle Blockchain Cloud Service — Chaincode Deployment and Instantiation](https://juarezjunior.medium.com/oracle-blockchain-cloud-service-chaincode-deployment-and-instantiation-748a5772a59e)
+- [Oracle Blockchain Cloud Service — Invoke Chaincode by means of OBCS REST APIs](https://juarezjunior.medium.com/oracle-blockchain-cloud-service-invoke-chaincode-by-means-of-obcs-rest-apis-1f30127ed8c4)
+- [Oracle Blockchain Cloud Service — Invoke Chaincode from a Visual Builder Cloud Service application, Part 1 — Connecting VBCS to Oracle Blockchain](https://juarezjunior.medium.com/oracle-blockchain-cloud-service-invoke-chaincode-from-a-visual-builder-cloud-service-application-8f222626cde3)
+- [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 3 - Getting Started with Oracle Machine Learning](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-3-getting-started-with-oracle-machine-1b72224b4112)
+
+- #### IoT - Internet of Things
+- [Azure IoT Central — Quick hands-on guide](https://juarezjunior.medium.com/azure-iot-central-hands-on-guide-9fdec8e3cd08)
+- [Oracle IoT Cloud Service - Application Development Basics](https://juarezjunior.medium.com/oracle-iot-cloud-service-application-development-basics-9cbe11ce951c)
+- [Oracle IoT Cloud Service — How to Provision an IoT Enterprise Service Instance](https://juarezjunior.medium.com/oracle-iot-cloud-service-how-to-create-the-iot-enterprise-service-instance-2d9bb7e46d1e)      
+- [What Makes a City Smart?](https://medium.com/@curiocity30/what-makes-a-city-smart-d94e7534f173) 
 
 - ### 🎤 Talks
 - [DevRel - Sessionize](https://sessionize.com/juarezjunior) 
@@ -190,8 +253,7 @@ I am a Sr. Principal Java Developer Evangelist and Director of Developer Evangel
 - [Microsoft - Event Speaker Silver](https://www.credly.com/badges/87e92b22-3c04-4332-8d3e-82eec922da2d) 
 - [Microsoft - Hackathon Leader Silver](https://www.credly.com/badges/4e6f9488-a39a-4b17-8a39-17b0e02d0418) 
 - [Microsoft - External User Group Silver](https://www.credly.com/badges/29943bc3-c8f7-4af8-9010-7e761a5e079b)
-- [Microsoft - Onboarding Buddy Gold](https://www.credly.com/badges/67feae69-f442-4266-a44b-9728514fa49d) 
-
+- [Microsoft - Onboarding Buddy Gold](https://www.credly.com/badges/67feae69-f442-4266-a44b-9728514fa49d)
 
 - ### 🏆 Awards
 - [IBM Mobile Thought Leader and Technical Evangelist](https://www.flickr.com/photos/15201803@N00/albums/72157697188449462)
