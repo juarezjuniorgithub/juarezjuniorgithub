@@ -18,8 +18,7 @@ I am a Sr. Principal Java Developer Evangelist and Director of Developer Evangel
 [<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/intent/follow?follow%7Ctwgr%5Ejuarezjunior&screen_name=juarezjunior)
 
 ### 📝 Blog Posts
-
-- #### Java, Python, Golang, Javascript, Android
+#### Java, Python, Golang, Javascript, Android
 
 - [A Java Microservice with GraalVM, Micronaut Data, JDK 21, and the Oracle Autonomous Database](https://juarezjunior.medium.com/a-java-microservice-with-graalvm-micronaut-data-jdk-21-and-the-oracle-autonomous-database-10f24759f807)
 - [Developing an Oracle JDBC app with GraalVM Native Image](https://juarezjunior.medium.com/introduction-to-oracle-jdbc-driver-configuration-for-graalvm-native-image-6130e699d03b)
@@ -63,8 +62,7 @@ I am a Sr. Principal Java Developer Evangelist and Director of Developer Evangel
 - [Blockchain for Python Developers - Pyjamas Conf 2020](https://www.slideshare.net/juarezjunior/blockchain-for-python-developers-pyjamas-conf-2020)      
 - [Golang and Hyperledger Fabric ChainCode Development with VS Code — Quick Step by Step Guide](https://juarezjunior.medium.com/golang-and-hyperledger-fabric-chaincode-development-with-vs-code-quick-step-by-step-guide-7a6456f80307)
 
-- #### AI, DevOps, Cloud Native, Databases
-
+#### AI, DevOps, Cloud Native, Databases
 - [Performance Analysis of Infrastructure as Code (IaC) Tools — Part 2 — Terraform](https://juarezjunior.medium.com/performance-analysis-of-infrastructure-as-code-iac-tools-part-2-terraform-be3f46a86b37)
 - [Performance Analysis of Infrastructure as Code (IaC) Tools — Part 1 — Bicep](https://juarezjunior.medium.com/performance-analysis-of-infrastructure-as-code-iac-tools-part-1-bicep-da70211e7347)
 - [Cloud Native Java with Kubernetes, Spring Boot, Docker, and Minikube](https://juarezjunior.medium.com/cloud-native-java-with-kubernetes-spring-boot-docker-and-minikube-8c997e38f2d)
@@ -83,8 +81,7 @@ I am a Sr. Principal Java Developer Evangelist and Director of Developer Evangel
 - [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 7 - Run Notebooks with Oracle Machine Learning](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-7-run-notebooks-with-oracle-machine-64731155a436)
 - [GDPR — the new EU General Data Protection Regulation](https://juarezjunior.medium.com/gdpr-the-new-eu-general-data-protection-regulation-d651529435ac)
 
-- #### Blockchain, Hyperledger, Quorum, CORDA, Ethereum, Solidity
-
+#### Blockchain, Hyperledger, Quorum, CORDA, Ethereum, Solidity
 - [The Trinity in Exponential Technologies - Open Source, Blockchain and Microsoft Azure](https://www.slideshare.net/juarezjunior/the-trinity-in-exponential-technologies-open-source-blockchain-and-microsoft-azure)
 - [Enterprise Blockchain Application Development using Azure Blockchain Service](https://www.slideshare.net/juarezjunior/enterprise-blockchain-application-development-using-azure-blockchain-service)
 - [How to Integrate Blockchain Technology into Your Applications](https://www.slideshare.net/juarezjunior/how-to-integrate-blockchain-technology-into-your-applications)  
@@ -121,15 +118,13 @@ I am a Sr. Principal Java Developer Evangelist and Director of Developer Evangel
 - [Oracle Blockchain Cloud Service — Invoke Chaincode from a Visual Builder Cloud Service application, Part 1 — Connecting VBCS to Oracle Blockchain](https://juarezjunior.medium.com/oracle-blockchain-cloud-service-invoke-chaincode-from-a-visual-builder-cloud-service-application-8f222626cde3)
 - [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 3 - Getting Started with Oracle Machine Learning](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-3-getting-started-with-oracle-machine-1b72224b4112)
 
-- #### IoT - Internet of Things
-
+#### IoT - Internet of Things
 - [Azure IoT Central — Quick hands-on guide](https://juarezjunior.medium.com/azure-iot-central-hands-on-guide-9fdec8e3cd08)
 - [Oracle IoT Cloud Service - Application Development Basics](https://juarezjunior.medium.com/oracle-iot-cloud-service-application-development-basics-9cbe11ce951c)
 - [Oracle IoT Cloud Service — How to Provision an IoT Enterprise Service Instance](https://juarezjunior.medium.com/oracle-iot-cloud-service-how-to-create-the-iot-enterprise-service-instance-2d9bb7e46d1e)
 - [What Makes a City Smart?](https://medium.com/@curiocity30/what-makes-a-city-smart-d94e7534f173)
 
-- ### 🎤 Talks
-
+### 🎤 Talks
 - [DevRel - Sessionize](https://sessionize.com/juarezjunior) 
 - [GeeCon 2023 - Prague, Czech Republic - Unleash the power of your applications with Micronaut and GraalVM](https://www.youtube.com/watch?v=HZlQBBNFp8o)
 - [GeeCon 2023 - Prague, Czech Republic - Unleash the power of your applications with Micronaut and GraalVM](https://2023.geecon.cz/speakers/)
@@ -262,8 +257,7 @@ I am a Sr. Principal Java Developer Evangelist and Director of Developer Evangel
 - [Microsoft - External User Group Silver](https://www.credly.com/badges/29943bc3-c8f7-4af8-9010-7e761a5e079b)
 - [Microsoft - Onboarding Buddy Gold](https://www.credly.com/badges/67feae69-f442-4266-a44b-9728514fa49d)
 
-- ### 🏆 Awards
-
+### 🏆 Awards
 - [IBM Mobile Thought Leader and Technical Evangelist](https://www.flickr.com/photos/15201803@N00/albums/72157697188449462)
 - [IBM Redbooks Author - Securing Your Mobile Business with IBM Worklight](https://play.google.com/store/books/details/Securing_Your_Mobile_Business_with_IBM_Worklight?id=qXvJAgAAQBAJ&gl=US)
 - [IBM Redbook - Securing Your Mobile Business with IBM Worklight](https://books.google.ie/books?id=qXvJAgAAQBAJ)
