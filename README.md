@@ -17,7 +17,7 @@ I am a Sr. Principal Java Developer Evangelist and Director of Developer Evangel
 ### 𝕏 Latest Tweets
 [<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/intent/follow?follow%7Ctwgr%5Ejuarezjunior&screen_name=juarezjunior)
 
-### 📝 Latest Blog Posts
+### 📝 Blog Posts
 - [A Java Microservice with GraalVM, Micronaut Data, JDK 21, and the Oracle Autonomous Database](https://juarezjunior.medium.com/a-java-microservice-with-graalvm-micronaut-data-jdk-21-and-the-oracle-autonomous-database-10f24759f807)
 - [Developing an Oracle JDBC app with GraalVM Native Image](https://juarezjunior.medium.com/introduction-to-oracle-jdbc-driver-configuration-for-graalvm-native-image-6130e699d03b)
 - [Getting to Know the New Spring JDBC Client with the Oracle Database](https://juarezjunior.medium.com/getting-to-know-the-new-spring-jdbc-client-with-the-oracle-database-bf2dfbca3bf2)
@@ -59,7 +59,7 @@ I am a Sr. Principal Java Developer Evangelist and Director of Developer Evangel
 - [Blockchain for Python Developers - Pyjamas Conf 2020](https://www.slideshare.net/juarezjunior/blockchain-for-python-developers-pyjamas-conf-2020)      
 - [Golang and Hyperledger Fabric ChainCode Development with VS Code — Quick Step by Step Guide](https://juarezjunior.medium.com/golang-and-hyperledger-fabric-chaincode-development-with-vs-code-quick-step-by-step-guide-7a6456f80307)
 
-- ### 🎤 Latest Talks
+- ### 🎤 Talks
 - [DevRel - Sessionize](https://sessionize.com/juarezjunior) 
 - [GeeCon 2023 - Prague, Czech Republic - Unleash the power of your applications with Micronaut and GraalVM](https://www.youtube.com/watch?v=HZlQBBNFp8o)      
 - [GeeCon 2023 - Prague, Czech Republic - Unleash the power of your applications with Micronaut and GraalVM](https://2023.geecon.cz/speakers/)
