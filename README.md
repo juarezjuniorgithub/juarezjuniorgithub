@@ -21,10 +21,10 @@ I am a Sr. Principal Java Developer Evangelist and Director of Developer Evangel
 #### Java, Python, Golang, Javascript, Android
 
 - [Straightforward Data Access with Jakarta Data and the Oracle Database](https://juarezjunior.medium.com/straightforward-data-access-with-jakarta-data-and-the-oracle-database-b789b99e4c9b)
-      - [Retrieval-Augmented Generation (RAG) with LangChain4j and the Oracle Database 23ai](https://juarezjunior.medium.com/retrieval-augmented-generation-rag-with-langchain4j-and-the-oracle-database-23ai-0e09ae2e0d6a)
-      - [Retrieval-Augmented Generation (RAG) with Spring AI, Oracle Database 23ai, and OpenAI](https://juarezjunior.medium.com/retrieval-augmented-generation-rag-with-spring-ai-oracle-database-23ai-and-openai-61281b96d18a)
-      - [Quickstart: Connect to Oracle Database 23ai using IntelliJ IDEA](https://juarezjunior.medium.com/quickstart-connect-to-oracle-database-23ai-using-intellij-idea-9f688c2cdd70)
-      - [Oracle AI Vector Search for Java Developers with the Oracle Database 23ai](https://medium.com/oracledevs/oracle-ai-vector-search-for-java-developers-with-the-oracle-database-23ai-e29321d23fa0)
+- [Retrieval-Augmented Generation (RAG) with LangChain4j and the Oracle Database 23ai](https://juarezjunior.medium.com/retrieval-augmented-generation-rag-with-langchain4j-and-the-oracle-database-23ai-0e09ae2e0d6a)
+- [Retrieval-Augmented Generation (RAG) with Spring AI, Oracle Database 23ai, and OpenAI](https://juarezjunior.medium.com/retrieval-augmented-generation-rag-with-spring-ai-oracle-database-23ai-and-openai-61281b96d18a)
+- [Quickstart: Connect to Oracle Database 23ai using IntelliJ IDEA](https://juarezjunior.medium.com/quickstart-connect-to-oracle-database-23ai-using-intellij-idea-9f688c2cdd70)
+- [Oracle AI Vector Search for Java Developers with the Oracle Database 23ai](https://medium.com/oracledevs/oracle-ai-vector-search-for-java-developers-with-the-oracle-database-23ai-e29321d23fa0)
 - [A Java Microservice with GraalVM, Micronaut Data, JDK 21, and the Oracle Autonomous Database](https://juarezjunior.medium.com/a-java-microservice-with-graalvm-micronaut-data-jdk-21-and-the-oracle-autonomous-database-10f24759f807)
 - [Developing an Oracle JDBC app with GraalVM Native Image](https://juarezjunior.medium.com/introduction-to-oracle-jdbc-driver-configuration-for-graalvm-native-image-6130e699d03b)
 - [Getting to Know the New Spring JDBC Client with the Oracle Database](https://juarezjunior.medium.com/getting-to-know-the-new-spring-jdbc-client-with-the-oracle-database-bf2dfbca3bf2)
