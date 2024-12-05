@@ -20,6 +20,8 @@ I am a Sr. Principal Java Developer Evangelist and Director of Developer Evangel
 ### 📝 Blog Posts
 #### Java, Python, Golang, Javascript, Android
 
+- [A GenAI Solution with Virtual Threads, JDBC Reactive Extensions, and Pipelined Database Operations](https://juarezjunior.medium.com/a-genai-solution-with-virtual-threads-jdbc-reactive-extensions-and-pipelined-database-operations-8f29999ef47f)
+- [Creating GenAI Apps in Java with SD4J (Stable Diffusion for Java) and the ONNX Runtime — Part 1](https://juarezjunior.medium.com/creating-genai-apps-in-java-with-sd4j-stable-diffusion-for-java-and-the-onnx-runtime-part-1-b72385c59329)
 - [Straightforward Data Access with Jakarta Data and the Oracle Database](https://juarezjunior.medium.com/straightforward-data-access-with-jakarta-data-and-the-oracle-database-b789b99e4c9b)
 - [Retrieval-Augmented Generation (RAG) with LangChain4j and the Oracle Database 23ai](https://juarezjunior.medium.com/retrieval-augmented-generation-rag-with-langchain4j-and-the-oracle-database-23ai-0e09ae2e0d6a)
 - [Retrieval-Augmented Generation (RAG) with Spring AI, Oracle Database 23ai, and OpenAI](https://juarezjunior.medium.com/retrieval-augmented-generation-rag-with-spring-ai-oracle-database-23ai-and-openai-61281b96d18a)
