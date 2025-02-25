@@ -20,6 +20,7 @@ I am a Sr. Principal Java Developer Evangelist and Director of Developer Evangel
 ### 📝 Blog Posts
 #### Java, Python, Golang, Javascript, Android
 
+- [Getting started with Oracle’s official contribution to LangChain4J](https://juarezjunior.medium.com/getting-started-with-oracles-official-contribution-to-langchain4j-2a49446d8131)
 - [Getting started with Oracle’s official contribution to Spring AI](https://juarezjunior.medium.com/get-started-with-oracles-official-contribution-to-spring-ai-253504ca4fd0)
 - [Mastering Observability: A Step-by-Step Guide to OpenTelemetry for Java Developers — Part 1](https://juarezjunior.medium.com/mastering-observability-a-step-by-step-guide-to-opentelemetry-for-java-developers-1f86ed7767dc)
 - [Mastering Observability: Streamline Java Application Observability with the Oracle JDBC OpenTelemetry Provider — Part 2](https://juarezjunior.medium.com/mastering-observability-streamline-java-application-observability-with-the-oracle-jdbc-79a17759370a)
