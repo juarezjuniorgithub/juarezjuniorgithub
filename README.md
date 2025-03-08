@@ -1,4 +1,4 @@
-![Profile Header](./juarez-junior-java-blockchain.jpg)
+![Profile Header](./Juarez-SPEAKS.jpg)
 
 ### Hello there! 🤖
 My name is Juarez Barbosa Junior, and I have over 20 years of professional experience in Software Engineering and Developer Relations. I have held senior leadership roles in developer relations, developer ecosystem outreach, developer community management, business development and strategy, software and solutions engineering, collaboration with developer communities, startup founders, accelerators, incubators, mentors, venture capitalists, subject matter experts, and business partners.
@@ -20,6 +20,11 @@ I am a Sr. Principal Java Developer Evangelist and Director of Developer Evangel
 ### 📝 Blog Posts
 #### Java, Python, Golang, Javascript, Android
 
+- [Getting started with Oracle’s official contribution to Spring AI](https://juarezjunior.medium.com/get-started-with-oracles-official-contribution-to-spring-ai-253504ca4fd0)
+- [Getting started with Oracle’s official contribution to LangChain4J](https://juarezjunior.medium.com/getting-started-with-oracles-official-contribution-to-langchain4j-2a49446d8131)
+- [Mastering Observability: Streamline Java Application Observability with the Oracle JDBC OpenTelemetry Provider — Part 2](https://juarezjunior.medium.com/mastering-observability-streamline-java-application-observability-with-the-oracle-jdbc-79a17759370a)
+- [Mastering Observability: A Step-by-Step Guide to OpenTelemetry for Java Developers — Part 1](https://juarezjunior.medium.com/mastering-observability-a-step-by-step-guide-to-opentelemetry-for-java-developers-1f86ed7767dc)
+- [Unleashing the Power of Vector Data Types with Oracle R2DBC: Accelerating Generative AI Solutions with Reactive Streams and the Oracle Database 23ai](https://juarezjunior.medium.com/unleashing-the-power-of-vector-data-types-with-oracle-r2dbc-accelerating-generative-ai-solutions-bed4f984e67d)
 - [A Java Microservice with GraalVM, Micronaut Data, JDK 21, and the Oracle Autonomous Database](https://juarezjunior.medium.com/a-java-microservice-with-graalvm-micronaut-data-jdk-21-and-the-oracle-autonomous-database-10f24759f807)
 - [Developing an Oracle JDBC app with GraalVM Native Image](https://juarezjunior.medium.com/introduction-to-oracle-jdbc-driver-configuration-for-graalvm-native-image-6130e699d03b)
 - [Getting to Know the New Spring JDBC Client with the Oracle Database](https://juarezjunior.medium.com/getting-to-know-the-new-spring-jdbc-client-with-the-oracle-database-bf2dfbca3bf2)
