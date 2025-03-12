@@ -20,6 +20,9 @@ I am a Sr. Principal Java Developer Evangelist and Director of Developer Evangel
 ### 📝 Blog Posts
 #### Java, Python, Golang, Javascript, Android
 
+- [Building AI-Powered Database Apps with Hibernate Vector and the Oracle Database 23ai — Part 2 — Using the Hibernate Vector module with Oracle AI Vector Search](https://juarezjunior.medium.com/building-ai-powered-database-apps-with-hibernate-vector-and-the-oracle-database-23ai-part-2-eabd661577df)
+- [Building AI-Powered Database Apps with Hibernate Vector and the Oracle Database 23ai — Part 1 — Using Hibernate Vector module with Oracle Vector Data Type](https://juarezjunior.medium.com/unleashing-ai-powered-database-apps-mastering-hibernate-vector-with-oracle-database-23ai-f46d9ad8496d)
+- [Unleashing the Power of Vector Data Types with Oracle R2DBC: Accelerating Generative AI Solutions with Reactive Streams and the Oracle Database 23ai](https://juarezjunior.medium.com/unleashing-the-power-of-vector-data-types-with-oracle-r2dbc-accelerating-generative-ai-solutions-bed4f984e67d)
 - [Getting started with Oracle’s official contribution to Spring AI](https://juarezjunior.medium.com/get-started-with-oracles-official-contribution-to-spring-ai-253504ca4fd0)
 - [Getting started with Oracle’s official contribution to LangChain4J](https://juarezjunior.medium.com/getting-started-with-oracles-official-contribution-to-langchain4j-2a49446d8131)
 - [Mastering Observability: Streamline Java Application Observability with the Oracle JDBC OpenTelemetry Provider — Part 2](https://juarezjunior.medium.com/mastering-observability-streamline-java-application-observability-with-the-oracle-jdbc-79a17759370a)
