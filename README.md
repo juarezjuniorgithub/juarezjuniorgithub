@@ -3,7 +3,7 @@
 ### Hello there! 🤖
 My name is Juarez Barbosa Junior, and I have over 20 years of professional experience in Software Engineering and Developer Relations. I have held senior leadership roles in developer relations, developer ecosystem outreach, developer community management, business development and strategy, software and solutions engineering, collaboration with developer communities, startup founders, accelerators, incubators, mentors, venture capitalists, subject matter experts, and business partners.
 
-I am a Sr. Principal Java Developer Evangelist and Director of Developer Evangelism at Oracle. Previously, I was an Azure Developer Relations Lead – Director of Developer Relations at Microsoft. In addition to that, I was a Principal Developer Advocate, Developer Advocacy Director at Oracle EMEA, and a Thought Leader and Technical Evangelist at IBM. I'm from Brazil, and I live in Dublin, Ireland.
+I am a Sr Principal Developer Evangelist and Director of Developer Evangelism at Oracle. Previously, I was an Azure Developer Relations Lead – Director of Developer Relations at Microsoft. In addition to that, I was a Principal Developer Advocate, Developer Advocacy Director at Oracle EMEA, and a Thought Leader and Technical Evangelist at IBM. I'm from Brazil, and I live in Dublin, Ireland.
 
 ### 🤝 Social Media Channels
 - Full Profile: https://juarezjuniorgithub.github.io
