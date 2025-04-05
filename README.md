@@ -1,9 +1,13 @@
 ![Profile Header](./Juarez-SPEAKS.jpg)
 
 ### Hello there! 🤖
-My name is Juarez Barbosa Junior, and I have over 20 years of professional experience in Software Engineering and Developer Relations. I have held senior leadership roles in developer relations, developer ecosystem outreach, developer community management, business development and strategy, software and solutions engineering, collaboration with developer communities, startup founders, accelerators, incubators, mentors, venture capitalists, subject matter experts, and business partners.
+My name is Juarez Barbosa Junior. I have held senior leadership roles in software engineering and developer relations, focusing on developer audiences, subject matter experts, customers, and business partners. I have also acted as a mentor for Microsoft for Startups, having worked with startup founders, accelerators, incubators, mentors, and venture capitalists.
 
-I am a Sr Principal Developer Evangelist and Director of Developer Evangelism at Oracle. Previously, I was an Azure Developer Relations Lead – Director of Developer Relations at Microsoft. In addition to that, I was a Principal Developer Advocate, Developer Advocacy Director at Oracle EMEA, and a Thought Leader and Technical Evangelist at IBM. I'm from Brazil, and I live in Dublin, Ireland.
+I am a Sr Principal Developer Evangelist and Director of Developer Evangelism at Oracle. Previously, I was an Azure Developer Relations Lead – Director of Developer Relations at Microsoft. In addition to that, I was a Principal Developer Advocate, Developer Advocacy Director at Oracle EMEA, and a Thought Leader and Technical Evangelist at IBM. 
+
+I have extensive experience with large enterprise systems and environments with companies like Oracle, Microsoft, IBM, Unisys, Nokia, Accenture, and a few medium-sized companies and startups (two as a founder). I have mastered presenting to technical and non-technical audiences and engaging the C-Level in technology and business transformation journeys.
+
+I have been the recipient of many awards, such as IBM Technical RockStar for Cloud, IBM Redbooks Thought Leader and Evangelist for IBM Mobile, Nokia Developer Champion, IBM Manager’s Choice Award, Superior Community Service Contributions—Forum Nokia Wiki, IBM Hall of Fame Awards, IBM Common Development and Test Outstanding Contribution Awards, and IBM Mobile Enterprise Social Media Residency Outstanding Contributor.
 
 ### 🤝 Social Media Channels
 - Full Profile: https://juarezjuniorgithub.github.io
