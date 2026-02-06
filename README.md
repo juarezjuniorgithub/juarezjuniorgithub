@@ -1,4 +1,4 @@
-![Profile Header](./Juarez-SPEAKS.jpg)
+![Profile Header](./Juarez-SPEAKER.jpg)
 
 ### Hello there! 🤖
 My name is Juarez Barbosa Junior. I have held senior leadership roles in software engineering and developer relations, focusing on developer audiences, subject matter experts, customers, and business partners. I have also acted as a mentor for Microsoft for Startups, having worked with startup founders, accelerators, incubators, mentors, and venture capitalists.
