@@ -1,13 +1,19 @@
 ![Profile Header](./Juarez-SPEAKER.jpg)
 
 ### Hello there! 🤖
-My name is Juarez Barbosa Junior. I have held senior leadership roles in software engineering and developer relations, focusing on developer audiences, subject matter experts, customers, and business partners. I have also acted as a mentor for Microsoft for Startups, having worked with startup founders, accelerators, incubators, mentors, and venture capitalists.
+• Software and Solutions Architect with more than 20 years of experience designing and implementing enterprise, mission-critical solutions.
 
-I am a Sr Principal Developer Evangelist and Director of Developer Evangelism at Oracle. Previously, I was an Azure Developer Relations Lead – Director of Developer Relations at Microsoft. In addition to that, I was a Principal Developer Advocate, Developer Advocacy Director at Oracle EMEA, and a Thought Leader and Technical Evangelist at IBM. 
+• Extensive experience building agents and AI-based solutions with Python using LangChain/LangGraph, Google ADK, Microsoft Agent Framework, and Java using LangChain4J, Spring AI, LangGraph4J, and Tribuo (Machine Learning). Deep knowledge of AI-related concepts such as Vector Databases, Vector Search, RAG workflows, and agentic protocols such as MCP and A2A.
 
-I have extensive experience with large enterprise systems and environments with companies like Oracle, Microsoft, IBM, Unisys, Nokia, Accenture, and a few medium-sized companies and startups (two as a founder). I have mastered presenting to technical and non-technical audiences and engaging the C-Level in technology and business transformation journeys.
+• Certified Java professional with expert-level knowledge and experience in Java, using Spring Boot, Jakarta EE, Hibernate, GraalVM, Micronaut, and Helidon.
 
-I have been the recipient of many awards, such as IBM Technical RockStar for Cloud, IBM Redbooks Thought Leader and Evangelist for IBM Mobile, Nokia Developer Champion, IBM Manager’s Choice Award, Superior Community Service Contributions—Forum Nokia Wiki, IBM Hall of Fame Awards, IBM Common Development and Test Outstanding Contribution Awards, and IBM Mobile Enterprise Social Media Residency Outstanding Contributor.
+• Master's degree in DevOps, with extensive experience in SRE and IT Infrastructure projects (several awards), Terraform, Ansible, containers, Kubernetes, and cloud using Oracle Cloud, Microsoft Azure, IBM Cloud, AWS, and GCP.
+
+• From a leadership and management standpoint, I have held senior leadership roles in software engineering and developer relations, focusing on developer audiences, subject matter experts, customers, and business partners. I have also served as a mentor for Microsoft for Startups, working with startup founders, accelerators, incubators, mentors, and venture capitalists.
+
+• I have extensive experience with large enterprise systems and environments with companies like Oracle, Microsoft, IBM, Unisys, Nokia, Accenture, and a few medium-sized companies and startups (two as a founder). I have mastered presenting to technical and non-technical audiences and engaging the C-Level in technology and business transformation journeys.
+
+• I have received many awards, such as Oracle Customer Excellence 2025, Oracle ACE Mentor 2022, IBM Technical RockStar for Cloud, IBM Redbooks Thought Leader and Evangelist for IBM Mobile, Nokia Developer Champion, IBM Manager’s Choice Award, Superior Community Service Contributions—Forum Nokia Wiki, IBM Hall of Fame Awards, IBM Common Development and Test Outstanding Contribution Awards, and IBM Mobile Enterprise Social Media Residency Outstanding Contributor.
 
 ### 🤝 Social Media Channels
 - Full Profile: https://juarezjuniorgithub.github.io
