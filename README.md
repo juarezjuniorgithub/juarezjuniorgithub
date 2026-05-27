@@ -5,7 +5,7 @@
 
 • Extensive experience building agents and AI-based solutions with Python using LangChain/LangGraph, Google ADK, Microsoft Agent Framework, and Java using LangChain4J, Spring AI, LangGraph4J, and Tribuo (Machine Learning). Deep knowledge of AI-related concepts, including vector search, RAG workflows, context engineering, SDD, and agentic protocols such as MCP and A2A.
 
-• Certified Java professional with expert-level knowledge and experience in Java, using Spring Boot, Jakarta EE, Hibernate, GraalVM, Micronaut, and Helidon. Front-end (JavaScript, Typescript, React), APIs (GraphQL, REST), and tools such as VS Code, OpenAI Codex, Cline, and Claude Code.
+• Certified Java professional with expert-level knowledge and experience in Java, using Spring Boot, Jakarta EE, Hibernate, GraalVM, Micronaut, and Helidon. Front-end (JavaScript, Typescript, React), APIs (GraphQL, REST), and tools such as VS Code, OpenAI Codex, Cline, and Claude Code. Relational, NoSQL, and vector databases.
 
 • Master's degree in DevOps, with extensive experience in DevSecOps, SRE, and IT Infrastructure projects (several awards), IaC with Terraform and Ansible, containers, Kubernetes, and cloud computing using Oracle Cloud, Microsoft Azure, IBM Cloud, AWS, and GCP.
 
