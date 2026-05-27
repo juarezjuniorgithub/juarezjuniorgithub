@@ -3,7 +3,7 @@
 ### Hello there! 🤖
 • Software and Solutions Architect with more than 20 years of experience designing and implementing enterprise, mission-critical solutions.
 
-• Extensive experience building agents and AI-based solutions with Python using LangChain/LangGraph, Google ADK, Microsoft Agent Framework, and Java using LangChain4J, Spring AI, LangGraph4J, and Tribuo (Machine Learning). Deep knowledge of AI-related concepts, including vector search, RAG workflows, context engineering, SDD, and agentic protocols such as MCP and A2A.
+• Extensive experience building agents and AI-based solutions with Python using LangChain/LangGraph, Google ADK, Microsoft Agent Framework, and Java using LangChain4J, Spring AI, LangGraph4J, and Tribuo (Machine Learning). Deep knowledge of AI-related concepts, including vector search, RAG workflows, context engineering, SDD, and agentic protocols such as MCP and A2A. Experience with several LLM models and SDKs such as OpenAI, Anthropic, Google Gemini, Cohere, Meta, xAI, NVIDIA and open-source models.
 
 • Certified Java professional with expert-level knowledge and experience in Java, using Spring Boot, Jakarta EE, Hibernate, GraalVM, Micronaut, and Helidon. Front-end (JavaScript, Typescript, React), APIs (GraphQL, REST), and tools such as VS Code, OpenAI Codex, Cline, and Claude Code. Relational, NoSQL, and vector databases.
 
