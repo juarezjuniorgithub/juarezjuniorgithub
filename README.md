@@ -5,9 +5,9 @@
 
 • Extensive experience building agents and AI-based solutions with Python using LangChain/LangGraph, Google ADK, Microsoft Agent Framework, and Java using LangChain4J, Spring AI, LangGraph4J, and Tribuo (Machine Learning). Deep knowledge of AI-related concepts, including vector search, RAG workflows, context engineering, SDD, and agentic protocols such as MCP and A2A. Experience with several LLM models and SDKs such as OpenAI, Anthropic, Google Gemini, Cohere, Meta, xAI, NVIDIA and open-source models.
 
-• Certified Java professional with expert-level knowledge and experience in Java, using Spring Boot, Jakarta EE, Hibernate, GraalVM, Micronaut, and Helidon. Front-end (JavaScript, Typescript, React), APIs (GraphQL, REST), and tools such as VS Code, OpenAI Codex, Cline, and Claude Code. Relational, NoSQL, and vector databases.
+• Certified Java professional with expert-level knowledge and experience in Java, using Spring Boot, Jakarta EE, Hibernate, GraalVM, Micronaut, and Helidon. Front-end (JavaScript, Typescript, React), APIs (GraphQL, REST, JSON, XML), and tools such as VS Code, OpenAI Codex, Cline, and Claude Code. Relational, NoSQL, and vector databases.
 
-• Master's degree in DevOps, with extensive experience in DevSecOps, SRE, and IT Infrastructure projects (several awards), IaC with Terraform and Ansible, containers, Kubernetes, and cloud computing using Oracle Cloud, Microsoft Azure, IBM Cloud, AWS, and GCP.
+• Master's degree in DevOps, with extensive experience in DevSecOps, SRE, and IT Infrastructure projects (several awards), IaC with Terraform and Ansible, containers, Kubernetes, and cloud computing using Oracle Cloud, Microsoft Azure, IBM Cloud, AWS, and GCP. Other DevOps-related tools I’ve worked with are GitHub Actions, Azure DevOps, PowerShell, Maven, Gradle, YAML, and Jenkins. Linux, IBM zLinux, AIX, and Windows operating systems.
 
 • I have extensive experience with large enterprise systems and environments with companies like Oracle, Microsoft, IBM, Unisys, Nokia, Accenture, and a few medium-sized companies and startups (two as a founder). I have mastered presenting to technical and non-technical audiences and engaging the C-Level in technology and business transformation journeys.
 
